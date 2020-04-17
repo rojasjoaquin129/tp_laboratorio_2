@@ -1,0 +1,13 @@
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\bin\Debug\MiCalculadora.exe
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\bin\Debug\Entidades.dll
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\bin\Debug\Entidades.pdb
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\obj\Debug\MiCalculadora.exe
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\rojas\Desktop\repos\trabajopractico_1\Calculadora\obj\Debug\MiCalculadora.formCalculadora.resources
