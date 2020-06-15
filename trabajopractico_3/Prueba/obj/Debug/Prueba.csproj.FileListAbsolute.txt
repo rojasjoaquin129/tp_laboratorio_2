@@ -1,0 +1,16 @@
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\bin\Debug\Prueba.exe
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\bin\Debug\Prueba.pdb
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\bin\Debug\Archivos.dll
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\bin\Debug\Clases Abstractas.dll
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\bin\Debug\Clases Instanciables.dll
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\bin\Debug\Excepciones.dll
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\bin\Debug\Archivos.pdb
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\bin\Debug\Clases Abstractas.pdb
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\bin\Debug\Clases Instanciables.pdb
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\bin\Debug\Excepciones.pdb
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\obj\Debug\Prueba.exe
+C:\Users\rojas\source\repos\TrabajoPractico3\Prueba\obj\Debug\Prueba.pdb
