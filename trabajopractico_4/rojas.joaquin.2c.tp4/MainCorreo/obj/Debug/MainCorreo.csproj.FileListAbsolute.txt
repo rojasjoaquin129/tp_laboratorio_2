@@ -1,0 +1,13 @@
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\bin\Debug\rojas.joaquin.2c.tp4.dll
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\bin\Debug\rojas.joaquin.2c.tp4.pdb
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\MainCorreo\obj\Debug\MainCorreo.pdb
