@@ -1,0 +1,6 @@
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\rojas.joaquin.2c.tp4\bin\Debug\rojas.joaquin.2c.tp4.dll
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\rojas.joaquin.2c.tp4\bin\Debug\rojas.joaquin.2c.tp4.pdb
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\rojas.joaquin.2c.tp4\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\rojas.joaquin.2c.tp4\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\rojas.joaquin.2c.tp4\obj\Debug\rojas.joaquin.2c.tp4.dll
+C:\Users\rojas\source\repos\rojas.joaquin.2c.tp4\rojas.joaquin.2c.tp4\obj\Debug\rojas.joaquin.2c.tp4.pdb
